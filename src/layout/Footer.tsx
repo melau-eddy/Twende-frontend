@@ -18,7 +18,7 @@ export default function Footer() {
         <div className=" flex flex-col items-center w-[240px]">s
           <h1 className="border-b-4 border-cyan-700 mb-3 w-fit">Our Offices</h1>
           <p className=" flex flex-col">
-            <span>Lorem Ipsums</span>
+            <span>Lorem Ipsum</span>
             <span>Lorem Ipsum</span>
           </p>
         </div>
