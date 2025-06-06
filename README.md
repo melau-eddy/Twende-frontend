@@ -16,7 +16,7 @@ cd bus-ticketing-frontend
 Make sure you have Node.js and npm installed.
 
 ```bash
-npm instal
+npm install
 ```
 ### Start Server
 
