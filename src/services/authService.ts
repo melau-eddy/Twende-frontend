@@ -17,6 +17,8 @@ export const signupUser = async (userData: SignupFormData) => {
   }
 };
 
+
+
 export const loginUser = async (loginData: LoginData) => {
   try {
     const res = await axios.post<LoginAPI>(`${BASE_URL}/users/login`, loginData);
