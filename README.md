@@ -7,7 +7,7 @@ Frontend system for a web-based commuter system application written in TypeScrip
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/bus-ticketing-frontend.git
+git clone https://github.com/melau-eddy/Twende-frontend
 cd bus-ticketing-frontend
 ```
 
