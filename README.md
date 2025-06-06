@@ -1,7 +1,7 @@
 ***************
-# Bus Ticketing System (Frontend)
+# Commuter System (Frontend)
 
-Frontend system for a web-based bus ticketing application written in TypeScript. This project is built with vanilla React.js and includes M-pesa payment integration.
+Frontend system for a web-based commuter system application written in TypeScript. This project is built with vanilla React.js and includes M-pesa payment integration.
 
 ## Installation and Setup
 
