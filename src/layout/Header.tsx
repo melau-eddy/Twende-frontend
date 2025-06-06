@@ -21,12 +21,12 @@ const Header = () => {
         <div className="hidden sm:flex flex-row justify-start gap-4">
           <div className="flex flex-row items-center gap-1">
             <BsTelephone />
-            <span>+254727533551</span>
+            <span>+254750391304</span>
           </div>
 
           <div className="flex flex-row items-center gap-1">
             <Ci.CiMail />
-            <span>contact@northRift.co.ke</span>
+            <span>contact@twende.co.ke</span>
           </div>
         </div>
 
