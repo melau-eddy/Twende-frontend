@@ -88,7 +88,7 @@ export default function TravelForm() {
 
       <div className="flex items-center">
         <Button type="primary" onClick={handleClick}>
-          Find Bus
+          Find A Car
         </Button>
       </div>
     </div>

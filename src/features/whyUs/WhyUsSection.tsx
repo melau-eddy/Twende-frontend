@@ -13,8 +13,8 @@ export default function WhyUsSection() {
       <div className="flex fex-row w-full justify-center gap-32 items-center">
         <WhyUsCard
           imageSrc={SeatsSvg}
-          heading="Comfort Seats"
-          description=" Our buses are equipped with large and comfortable seats."
+          heading="Express Journey"
+          description=" Our services are fast and reliable, ensuring you reach your destination on time"
         />
         <WhyUsCard
           imageSrc={PaymentSvg}
@@ -24,7 +24,7 @@ export default function WhyUsSection() {
         <WhyUsCard
           imageSrc={RouteSvg}
           heading="Extensive Route"
-          description="We are well equipesd with an large bus network."
+          description="We are well equipesd with an large commuter network."
         />
       </div>
     </div>
