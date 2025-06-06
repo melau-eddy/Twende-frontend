@@ -10,16 +10,16 @@ export default function Footer() {
         <div className="flex flex-col items-center w-[240px]">
           <h1 className="border-b-4 border-cyan-700 mb-3 w-fit">Contact us</h1>
           <p className="flex flex-col">
-            <span>+ 254 727 533 551</span>
-            <span>+ 254 727 533 551</span>
+            <span>+ 254 793 814 776</span>
+            <span>+ 254 716 555 810</span>
           </p>
         </div>
 
         <div className=" flex flex-col items-center w-[240px]">
           <h1 className="border-b-4 border-cyan-700 mb-3 w-fit">Our Offices</h1>
           <p className=" flex flex-col">
-            <span>Mfangano Street, Nairobi</span>
-            <span>Koitalel Avenue, Eldoret</span>
+            <span>Lorem Ipsum</span>
+            <span>Lorem Ipsum</span>
           </p>
         </div>
       </div>
